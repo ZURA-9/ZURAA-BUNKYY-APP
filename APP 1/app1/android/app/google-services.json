@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456222456971",
+    "firebase_url": "https://bunkyapp-prod-default-rtdb.firebaseio.com",
+    "project_id": "bunkyapp-prod",
+    "storage_bucket": "bunkyapp-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456222456971:android:ce65995e0c083034fa688e",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456222456971-v7l1q0dve22rvsr6kr914h7lvhelscse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd01LGH9t_e8dt1goO9QuI2FoJkNQN3lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456222456971-v7l1q0dve22rvsr6kr914h7lvhelscse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
